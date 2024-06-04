@@ -3,6 +3,6 @@
 
 To get the python packages run:\
 on unix/linux: `python -m pip install -r requirements.txt`\
-on windows: `py -m pip install -r requirements.txt`\
+on windows: `py -m pip install -r requirements.txt`
 
 Check the TODO in reviews/views.py for what we still need to do
